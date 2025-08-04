@@ -1,2 +1,2 @@
-# Induction-
-Ranjeet Singh, Mechanical
+#Day-1
+##30th of July

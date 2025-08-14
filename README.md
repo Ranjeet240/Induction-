@@ -1,2 +1,14 @@
-#Day-1
-##30th of July
+# Day-1
+## 30th of July
+### My first day at Guru Nanak Dev Engineering College was a bit exciting and fun.At 9am i reached college gurudwara, where i got a golden chance to start first day of my college with the blessings of god and we were also offered a fruitful refreshment.after that, we headed towards the college auditorium where respected HOD Ms Harpreet kaur gave all of us a brilliant speech about our college life.Our college principal also gave us an amazing lecture about discipline in life and importance of education.At 12:30pm, there was a lunch break and after that our college teachers helps us to take a visit to our departments.My teacher was very excellent and confident and he told everything about our branch that what we have to study,he also taught us of five (gagaas) which are important in a person's life.At 4pm we headed to our home, it was a wonderful day for me at GNDEC.
+# Day-2
+## 1 August
+### my second day at GNDEC started with a beautiful speech by Ms Priya Darshani on universal human values in which she told us about how we can stay happy in our life continuously and its importance.It was 2hours lecture of fruitful and life changing knwledge.At 12:30pm we enjoyed our small break time and then we headed towrads our alloted class rooms for our english proficiency test of english and maths. I performed a little bit bad but it was a good.That's how my second day at gndec college ends.
+# Day-3
+## 4 August
+### My third day stared with making some new college friends and a lecture about causmic club in the auditorium.It was fun watching reels of college and it also boosts self confidence and social interactions.Then again Ms. Priya Darshani mam continued the lecture on uniersal human values in which she taught us of that how different is being happy or living happy.She told us that materialistic things can only give happiness for a short period of time.It was a great lecture by her.Tehn after break,at 1:30pm we headed towrds ME seminar hall where Mr Jaswant Singh gave us introduction on computer programming and problem solving.He also told us taht hoe to behave with teachers and our friends.But our physics period was cancelled due to shortage of time and then we headed towrds our home.
+# Day-4 
+## 7 August
+### my forrth day at GNDEC started with Id card formation at TCC seminar hall.The teacher were polite and they peacefully helped us in formation of our Id cards.Then after 3hours, we headed towards college auditorium where Dr. Lakhwinder singh told us about a brilliant platform "swayam NPTEL" where we can learn various courses which we ever dreamt of but due to some circumstances, we were not able to join that , were free of cost by various IIT teachers. He was very friendly and good natured teacher, I loved his speech a lot.After that,Mr jasvir singh, incharge of NSS,started his speech with a beautiful shabd kirtan. The audi became full of peace and prosperity, thanks to him.Then we played a game in which a senior student would throw a ball and whosoever catches it would come to stage and make the other person laugh.It was fun and very exciting and refreshing.Then the seniors did a comic role which was funny and it refreshes our mind and body.Then we headed towards our home, and tha's how my fourth day at GNDEC ends.
+
+#END
